@@ -42,7 +42,6 @@ sudo usermod -aG docker $USER
 Utilisez le modèle suivant pour votre fichier :
 
 yaml
-Copia codice
 version: '3.5'  
 services:  
   app:  
